@@ -28,9 +28,11 @@ This is done by creating a dictionary of the format:
 
 ```
 {'lastname': [['namevariant1'], ['namevariant2'], ...]}
+```
 
-(such as)
+such as
 
+```
 {'gompers': ['gompers'], ['samuel', 'gompers'], ['president', 'gompers']}
 ```
 
