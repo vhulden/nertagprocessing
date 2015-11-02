@@ -25,11 +25,12 @@ The assumption is that if "Gompers" and "Samuel Gompers" occur in the same docum
 
 This is done by creating a dictionary of the format:
 
-```
-{'lastname': [['namevariant1'], ['namevariant2'], ...]}
-```, e.g.
 
 ```
+{'lastname': [['namevariant1'], ['namevariant2'], ...]}
+
+(such as)
+
 {'gompers': ['gompers'], ['samuel', 'gompers'], ['president', 'gompers']}
 ```
 
